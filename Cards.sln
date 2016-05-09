@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{D24DBF21-CCB5-49B2-9818-F05DDF99EA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsTests", "CardsTests\CardsTests.csproj", "{BAD6C5B0-D22E-49DA-AF13-E189785D13EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24DBF21-CCB5-49B2-9818-F05DDF99EA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24DBF21-CCB5-49B2-9818-F05DDF99EA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24DBF21-CCB5-49B2-9818-F05DDF99EA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24DBF21-CCB5-49B2-9818-F05DDF99EA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD6C5B0-D22E-49DA-AF13-E189785D13EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD6C5B0-D22E-49DA-AF13-E189785D13EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD6C5B0-D22E-49DA-AF13-E189785D13EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD6C5B0-D22E-49DA-AF13-E189785D13EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
